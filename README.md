@@ -1,156 +1,324 @@
+# 👋 Hi, I'm Sana Mailmuri
 
-<!--
-**MdNadeemSarwar/MdNadeemSarwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Finance MBA | CFA Program Candidate | Financial Analysis & Investment Research | Python & Data Analytics
 
-Here are some ideas to get you started:
+I’m a **Finance MBA and CFA Program candidate** building practical projects at the intersection of **Finance, Investment Research, Financial Modeling, and Data Analytics**.
 
-- 🔭 I’m currently working on .....
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to use financial analysis, valuation techniques, and data-driven methods to understand businesses, markets, and investment opportunities.
+
+---
+
+## 💼 What I Work On
+
+📊 **Financial Analysis & Modeling**
+📈 **Equity Research & Company Valuation**
+💰 **DCF & Comparable Company Analysis**
+📑 **Financial Statements & 3-Statement Modeling**
+🐍 **Python for Finance**
+🗄️ **SQL & Financial Data Analysis**
+📉 **Risk & Portfolio Analysis**
+🤖 **Machine Learning for Finance**
+📊 **Financial Dashboards & Visualization**
+
+---
+
+## 🎓 Education & Credentials
+
+* 🎓 **MBA – Finance & Marketing**
+* 🎓 **BA – Economics**
+* 📚 **CFA Program Candidate**
+* 🐍 **IBM Data Science with Generative AI**
+* 📊 **Financial Analysis & Modeling**
+* 💻 **Python / Data Analytics**
+
+---
+
+# 📊 Finance & Technical Skills
+
+### 💰 Finance
+
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+sana+mailmuri..;;Data+Scientist+and+Analyst;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true">
+
+<img src="https://img.shields.io/badge/Financial%20Modeling-1F4E79?style=for-the-badge&logo=excel&logoColor=white">
+
+<img src="https://img.shields.io/badge/Equity%20Research-2E75B6?style=for-the-badge&logo=googleanalytics&logoColor=white">
+
+<img src="https://img.shields.io/badge/DCF%20Valuation-17365D?style=for-the-badge&logo=chartdotjs&logoColor=white">
+
+<img src="https://img.shields.io/badge/Financial%20Analysis-217346?style=for-the-badge&logo=microsoft&logoColor=white">
+
+<img src="https://img.shields.io/badge/Investment%20Research-5B2C6F?style=for-the-badge&logo=tradingview&logoColor=white">
+
 </p>
 
-  
-## 🖥️ Technical Skills
+### 🐍 Python & Data Analytics
+
 <p align="center">
-  <!-- Add your title section here with unique color and icon -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C4FF&width=450&lines=Tech+Stack+as+a+Data+Scientist+and+Analyst!+🔍💻" alt="Tech Skills">
+
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python">
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" title="Pandas">
+</a>
+
+<a href="https://numpy.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" title="NumPy">
+</a>
+
+<a href="https://scikit-learn.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="50" title="Scikit-Learn">
+</a>
+
+<a href="https://jupyter.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter">
+</a>
+
 </p>
 
-<!-- Start of your technical icons with added hover effects -->
-<p align="center">
-  <!-- Data Science & Analytics -->
-  <strong>Data Science & Analytics</strong><br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 10px;" title="Python">
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="50" height="50" style="margin: 10px;" title="R">
-  </a>
-  <a href="https://www.numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" style="margin: 10px;" title="NumPy">
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50" style="margin: 10px;" title="Pandas">
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="50" height="50" style="margin: 10px;" title="Scikit-Learn">
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" style="margin: 10px;" title="TensorFlow">
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50" style="margin: 10px;" title="PyTorch">
-  </a>
-  <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="50" height="50" style="margin: 10px;" title="Apache">
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="50" height="50" style="margin: 10px;" title="Tableau">
-  </a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="50" height="50" style="margin: 10px;" title="Power BI">
-  </a>
+### 🗄️ SQL & Databases
 
-  <!-- Databases -->
-  <br><strong>Databases</strong><br>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin: 10px;" title="MySQL">
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="margin: 10px;" title="MongoDB">
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" style="margin: 10px;" title="PostgreSQL">
-  </a>
-  
-  <!-- Development & Tools -->
-  <br><strong>Development & Tools</strong><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="margin: 10px;" title="Git">
-  </a>
-  <a href="https://www.github.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="50" height="50" style="margin: 10px;" title="GitHub">
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin: 10px;" title="Docker">
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="50" height="50" style="margin: 10px;" title="Google Cloud">
-  </a>
-  <a href="https://www.aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" style="margin: 10px;" title="AWS">
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="50" height="50" style="margin: 10px;" title="SQL Server">
-  </a>
-  
-  <!-- Other Skills -->
-  <br><strong>Other Skills</strong><br>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" style="margin: 10px;" title="Figma">
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="50" height="50" style="margin: 10px;" title="Canva">
-  </a>
-  <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" style="margin: 10px;" title="Postman">
-  </a>
-  <a href="https://www.opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50" style="margin: 10px;" title="OpenCV">
-  </a>
-  <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="50" height="50" style="margin: 10px;" title="Apache">
-  </a>
+<p align="center">
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" title="MySQL">
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL">
+</a>
+
 </p>
 
-<!-- Add another personalized title section below -->
+### 📊 Business Intelligence & Visualization
+
 <p align="center">
-  
-## 🌟 My GitHub Journey
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sana786900&theme=radical&count_private=true&include_all_commits=true)
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sana786900&theme=radical&layout=compact)
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sana786900&theme=radical&hide_border=false)
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
 
-## 🌈 My Vision
-> "To leverage data to create innovative solutions that empower communities and drive meaningful change."
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
 
----
+</p>
 
+### 🛠️ Tools
 
-## 💡 Fun Facts About Me:
-- 🌱 Currently learning about **Deep Learning** and **Big Data**.
-- 🎤 I love poetry and often write in my free time.
-- 📚 Avid reader of science fiction novels!
+<p align="center">
 
----
-## 🤝 Join Me on My Journey
-- I'm always open to collaboration! Feel free to reach out if you have exciting projects or ideas.
-- Let’s build a community of data enthusiasts and innovators!
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git">
+</a>
 
----
+<a href="https://github.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" title="GitHub">
+</a>
 
-
+</p>
 
 ---
 
-## 🌱 Continuous Learning
-Currently diving into:
-- Advanced Machine Learning Techniques 🤖
-- Natural Language Processing for Text Analysis 📖
+# 📁 Featured Finance Projects
+
+## 1️⃣ Equity Research & DCF Valuation
+
+A complete fundamental equity research project covering:
+
+* Company & industry analysis
+* Historical financial statements
+* Revenue and expense assumptions
+* 3-statement financial model
+* Free Cash Flow calculation
+* WACC estimation
+* Discounted Cash Flow valuation
+* Comparable company analysis
+* Terminal value
+* Sensitivity analysis
+* Bull / Base / Bear scenarios
+* Investment thesis
+* Python-based financial analysis
+
+**Skills:** Financial Modeling • DCF • Valuation • Excel • Python • Equity Research
 
 ---
 
-### Thank you for visiting my profile! Let's connect and grow together! 
+## 2️⃣ Financial Statement Analysis
+
+Analysis of a company's:
+
+* Income Statement
+* Balance Sheet
+* Cash Flow Statement
+* Profitability
+* Liquidity
+* Solvency
+* Efficiency
+* Growth
+* Financial ratios
+
+**Skills:** Financial Analysis • Excel • Python • Accounting
+
+---
+
+## 3️⃣ Python Financial Analysis
+
+Python-based analysis of market and financial data.
+
+Includes:
+
+* Data collection
+* Data cleaning
+* Return calculations
+* Volatility analysis
+* Correlation analysis
+* Drawdown analysis
+* Moving averages
+* Financial visualization
+* Performance comparison
+
+**Skills:** Python • Pandas • NumPy • Matplotlib • Financial Markets
+
+---
+
+## 4️⃣ Portfolio & Risk Analytics
+
+A quantitative portfolio analysis project covering:
+
+* Portfolio returns
+* Volatility
+* Correlation
+* Covariance
+* Sharpe Ratio
+* Maximum Drawdown
+* Portfolio allocation
+* Risk analysis
+* Portfolio performance visualization
+
+**Skills:** Portfolio Management • Risk Analytics • Python • Statistics
+
+---
+
+## 5️⃣ Transaction Cost & Algorithmic Trading Research
+
+Research project focused on understanding the relationship between:
+
+* Trading volume
+* Bid-ask spread
+* Market liquidity
+* Price impact
+* Volatility
+* Transaction costs
+
+The project explores how market conditions can affect execution costs and trading strategies.
+
+**Skills:** Quantitative Finance • Python • Market Microstructure • Data Analysis
+
+---
+
+# 📈 Finance Career Focus
+
+I am currently building my career toward roles in:
+
+* Financial Analyst
+* Investment Analyst
+* Equity Research
+* FP&A
+* Financial Data Analyst
+* Risk Analyst
+* Portfolio Analytics
+* Business / Finance Analyst
+* Quantitative Finance
+* Investment Research
+* Corporate Finance
+
+---
+
+# 🧠 Current Learning
+
+📚 CFA Program
+
+🐍 Python for Finance
+
+📊 Advanced Financial Modeling
+
+💰 Equity Valuation
+
+📈 Investment Research
+
+🤖 Machine Learning for Finance
+
+🗄️ SQL for Financial Analytics
+
+---
+
+# 📌 My Finance Learning Roadmap
+
+```text
+Accounting
+     ↓
+Financial Statement Analysis
+     ↓
+Financial Modeling
+     ↓
+Equity Research
+     ↓
+DCF Valuation
+     ↓
+Comparable Company Analysis
+     ↓
+Portfolio & Risk Analytics
+     ↓
+Python for Finance
+     ↓
+Quantitative Finance
+     ↓
+Machine Learning for Finance
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sana786900&show_icons=true&theme=default&hide_border=true&count_private=true">
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sana786900&layout=compact&theme=default&hide_border=true">
+
+</p>
+
+---
+
+# 🎯 Career Objective
+
+> **To build a career in finance where financial modeling, investment research, valuation, and data analytics can be combined to support better financial decision-making.**
+
+---
+
+# 🤝 Let's Connect
+
+I’m interested in connecting with professionals and learners working in:
+
+**Finance • Investment Banking • Equity Research • Asset Management • FinTech • Quantitative Finance • Financial Analytics**
+
+📫 **LinkedIn:**
+https://www.linkedin.com/in/sana-m-6328b9384/
+
+💻 **GitHub:**
+https://github.com/Sana786900
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+I’m building my finance portfolio in public — one project at a time.
+
+**Finance × Data × Technology 📊🐍💰**
+
