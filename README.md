@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sana Mailmuri
+# 👋 Hi, I'm Sana M
 
 ### Finance MBA | CFA Program Candidate | Financial Analysis & Investment Research | Python & Data Analytics
 
